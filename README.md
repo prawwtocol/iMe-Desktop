@@ -15,10 +15,10 @@ The source code is published under GPLv3 with OpenSSL exception, the license is 
 
 The latest version is available for
 
-* [Windows 7 and above (64 bit)](https://telegram.org/dl/desktop/win64) ([portable](https://telegram.org/dl/desktop/win64_portable))
-* [Windows 7 and above (32 bit)](https://telegram.org/dl/desktop/win) ([portable](https://telegram.org/dl/desktop/win_portable))
-* [macOS 10.12 and above](https://telegram.org/dl/desktop/mac)
-* [Linux static build for 64 bit](https://telegram.org/dl/desktop/linux)
+* [Windows 7 and above (64 bit)](https://imem.app/download/desktop/win64) ([portable](https://imem.app/download/desktop/win64_portable))
+* [Windows 7 and above (32 bit)](https://imem.app/download/desktop/win) ([portable](https://imem.app/download/desktop/win_portable))
+* [macOS 10.12 and above](https://imem.app/download/desktop/mac)
+* [Linux static build for 64 bit](https://imem.app/download/desktop/linux)
 
 ## Third-party
 
